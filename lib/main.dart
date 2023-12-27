@@ -143,7 +143,7 @@ class _HomeScreenPageState extends State<HomeScreenPage> {
                         child: Text(
                           index + 1 == questions.length
                               ? "See result"
-                              : "Next Page",
+                              : "Next Sakebay",
                           style: const TextStyle(color: Colors.white),
                         ),
                       ),
