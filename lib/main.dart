@@ -142,7 +142,7 @@ class _HomeScreenPageState extends State<HomeScreenPage> {
                         padding: const EdgeInsets.all(12.0),
                         child: Text(
                           index + 1 == questions.length
-                              ? "See result"
+                              ? "See resultggffgggg"
                               : "Next Sakebay",
                           style: const TextStyle(color: Colors.white),
                         ),
